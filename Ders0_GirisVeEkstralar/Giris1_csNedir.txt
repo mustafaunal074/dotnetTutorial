@@ -1,0 +1,32 @@
+C# NEDİR ?
+	-Açık kaynak ve ücretsizdir.
+	-OOP yi destekler. => OOP bir yaklaşımdır
+	-Orta seviyeli bir dildir. => dilin okunabilirliği
+	-.Net Corun bir alt koludur.
+	-derlenen bir programlama dilidir.
+	-c# ile her şeyi yapabiliriz ( ama bu her şeyde iyi performans veremez )
+	-javadan etkilenmiştir. javayı etkilemektedir
+	
+	
+	peki neden c# - diyez ?
+	c++ ++ => c++ ın bir üst versiyonu  => ++ operatoru +1 anlamına gelir
+	C++ ++ => C#
+	
+	
+	.NET NEDİR?
+	-.net microsoftun developerlar için geliştirdiği teknolojileri sunduğu bir çatı
+	
+	- .NET Framework vs .NET Core -
+	
+	Framework :
+	ilk çıkan sürümdür.
+	Windows ekosistemine yönelik çözümler getirir
+	Open Source değildir.
+	
+	Core:
+	sonra çıkan sürümdür.
+	Cross Platformdur.
+	Open Source dur.
+	Frameworke göre daha performanslıdır
+	Modüler yapıdadır.
+	

@@ -1,0 +1,18 @@
+- Soru 1: static ile const arasındaki fark nedir ?
+=> static değişkenler adı üzerinde değerleri değişebilir lakin const'lar sabittir. Not olarakta const yapıları özünde statictir.
+
+- Soru 2: readonly ile const arasındaki fark nedir ?
+=> readonlynin const'tan farkı tanımlamdığı yerde değil, ekstra olarakta constructor içerisinde de değeri atanabilir. Dependency Injection deseninde çok sık tercih edilir
+=> readonly static değildir.
+
+- Soru 3: boxing unboxing nedir ?
+=> Veriyi objectin içine koymaya => boxing
+=> objectin içinden kendi türünde elde etmeye => unboxing
+
+- Soru 4: var ile object arasındaki fark nedir?
+=> var bir keyworddür, object ise bir değişkendir.
+=> var compiler tarafından değişkenin türünü belirler, objectin türü zaten direkt objectir
+=> var ile tanımlanan değişkenlerde kendi türüne ait işlemler yapılabilir, object te ise unboxing yapılmadan yapılamaz
+
+- Soru 5: var ile dynamic arasındaki fark nedir ?
+=>  var derleme aşamasında değerin türüne bürünürken, dynamic ise runtime'da verilen değerin türüne bürünecektir

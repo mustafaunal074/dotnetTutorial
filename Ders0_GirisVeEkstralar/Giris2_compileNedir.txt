@@ -1,0 +1,19 @@
+- Compiler Nedir -
+	-Bir dil derlenen bir dil ise.
+	c# programlama dilini önce derlenmesi sonrası çalıştırılması gerekmektedir.
+	
+	Derleme Nedir => Kodun makina tarafından okunabilmesi işlemine derleme denir(makinannın anlayabileceği hale gelmesi) 
+	
+	bir yazılımı çalıştırmak istiyorsak o yazılımın neyi vardır (.exe) dosyası vardır
+	exe dosyası => kullanıcının çalıştırabileceği yazılım uzantısıdır.
+	
+	bu uzantılı dosyayı nasıl alıyoruz => derleme sonucunda alıyoruz
+	yani yazmış olduğumuz c# kodunu kullanıcının işletim sisteminde çalıştırabilir hale getirmek için o kodu derlememiz lazımdır.
+	
+	derlemenin iki çıktısı vardır => bir tane (exe) dir diğeride (dll) dir.
+	
+	bir notepadi derlemek istersek ( içinde c# kod olduğunu varsayıyorum)
+	
+	developer command proptu açıp ilgili dizen gidip
+	>csc 'dosyaAdı'
+	yazmamız yeterlidir

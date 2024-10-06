@@ -1,0 +1,12 @@
+// To-do özelliği
+// uygulamalarda diğer developerları veya kendimize not bırakmak istiyorsak bu özelliği kullanırız
+//todo Bu özellik sayesinde TaskListe bir not eklenir ve uygulamanın neresineeklendiği yazar
+// büyük uygulamalarda çok fazla işe yaramaktadır
+
+
+// Debugging :Hata ayıklamak
+// Programın hatalarını yok etmeye yönelik yazılan kodu gözden geçirme,düzeltme aktiviteleridir.
+// İçerisinde bol bol mantıksal calışma yapılan bir kod insa ettiğimizi düşünelim
+// Debugging: kodun akısı esnasında kodu okuyabilmemizi ve gözlemleyebilmemizi sağlamaktadır.
+// Kompleks algoritmalarda zaman alıcıdır.
+// Eğer debug olmasaydı dunya tahminen 60 yıl önceki teknolojide olurdu...

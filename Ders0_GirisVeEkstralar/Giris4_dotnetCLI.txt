@@ -1,0 +1,39 @@
+Dotnet CLI
+	
+	dotnet CLI ile proje oluştururken hangi dizinde oluşturduğumuza dikkat edelim
+	Çünkü o projeyi ilgili dizine oluşturacaktır.
+	
+	'dotnet' => dotnet cli cağırır. bundan sonrasında talimat verebiliriz.
+	
+	dotnet new 'projectType' --name projectName
+			    console
+				mvp
+				webapi
+				
+				
+			
+	.net komut satırı arayüzüdür.
+	.net uygulamaları oluşturmayı,çalıştırmayı,geliştirmeyi ve yayınlamayı sağlar.
+	.net sdk ile birlikte gelir.
+	
+	dotnet [command] şeklinde kullanılır
+	
+	dotnet help => dotnet cli tarafından desteklenen komutlar hakkında ayrıbtılı bilgi veren komuttur.
+	dotnet new [projectType] --name[projectName] => bir dotnet uygulaması oluşturmaya yarayan komuttur
+	dotnet new [projectType] --name[projectName] --force => eğerki varolan bir dosyadan benzer bir tane daha oluşturmaya denersek hata veriri --force komutu ile o eski dosyayı ezebiliriz
+	dotnet restore => proje sürecinde referans edilen yahut referansı kaldırılan paketlerin restorasyonunu sağlar.
+	dotnet build => projeyi derleme ve sonuç olarak .exe ve .dll çıktıları verir ve ek olarakta projeyi derlemeden önce projeyi restore eder.
+	dotnet publish => projeyi resotre eder ve  derleyerek, yayınlanabiler hale getirmeye yarayan komuttur. projeyi yayınlamak => biz projeyi kaynak kodları vermemek için bu kodların çıktılarını alıp yayınlamak istiyoruz o yüzden publish ederiz.
+	dotnet run => uygulamayı derler ve ayağa kaldırır. çalıştırır.
+	dotnet run --no-build => derlemeden ayağa kaldırır.
+	
+	--proje modifikasyon komutları--
+	
+	package/kütüphane => nugetten gelenler
+	referans => önceden yazılmış dlllerdir. (.dll => bir yazılım tarafından kullabilabilir dosya demektir)
+	
+	dotnet add package [package] --version [version] => uygulamaya nugetten paket yüklememizi sağlar
+	dotnet add [sourceProject].csproj reference [targerProject].csproj => uygulamaya fiziksel bir dll dosyasını referans etmemizi sağlar.
+	dotnet remove package [packageName] => uygulamadaki paketi siler
+	dotnet remove reference [referenceName] => uygulamadaki referansı siler.
+	dotnet list reference => uygulamada referans edilen tüm paketleri listeler.

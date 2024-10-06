@@ -1,0 +1,8 @@
+	Proje Nedir - Solution Nedir ?
+	
+	Proje => İçerisinde amaca dair çözümler getirilen kkodsal çalışmaların yapıldığı(yani operasyonların yurutulduğu) bir butundur.
+	Solution => İçerisinde bir veya birden fazla proje barındırabilen bir evrensel kümedir.
+	
+	Build => Derleme yapar
+	Rebuild => Önceden derlenip çıktı alınan dosyaları siler yeniden derler
+	Clean => derlenen dosyaları siler
