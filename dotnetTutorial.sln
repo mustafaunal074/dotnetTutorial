@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders0_Giris", "Ders0_Giris\Ders0_Giris.csproj", "{D956D174-55E1-4DA2-8398-ABD0FBB5A02A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders1_MainNedir", "Ders1_MainNedir\Ders1_MainNedir.csproj", "{FA677193-2783-4F39-A149-21181C2498C0}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D956D174-55E1-4DA2-8398-ABD0FBB5A02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D956D174-55E1-4DA2-8398-ABD0FBB5A02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D956D174-55E1-4DA2-8398-ABD0FBB5A02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D956D174-55E1-4DA2-8398-ABD0FBB5A02A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FA677193-2783-4F39-A149-21181C2498C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FA677193-2783-4F39-A149-21181C2498C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA677193-2783-4F39-A149-21181C2498C0}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Ders1_MainNedir/1.0.0": {
+      "Ders4_TurDonusumleri/1.0.0": {
         "runtime": {
-          "Ders1_MainNedir.dll": {}
+          "Ders4_TurDonusumleri.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Ders1_MainNedir/1.0.0": {
+    "Ders4_TurDonusumleri/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
