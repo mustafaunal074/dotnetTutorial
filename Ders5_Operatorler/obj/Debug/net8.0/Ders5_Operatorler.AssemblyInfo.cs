@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ders1_MainNedir")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ders5_Operatorler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c822c1694cb9d31ea0d63e79c135df61428ce7cc")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ders1_MainNedir")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ders1_MainNedir")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ders5_Operatorler")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ders5_Operatorler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

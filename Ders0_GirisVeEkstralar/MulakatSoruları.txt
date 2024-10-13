@@ -16,3 +16,15 @@
 
 - Soru 5: var ile dynamic arasındaki fark nedir ?
 =>  var derleme aşamasında değerin türüne bürünürken, dynamic ise runtime'da verilen değerin türüne bürünecektir
+
+- Soru 6: İki tür arasında yapılan aritmatik işlem sonucunda donen değerin türü ne olmaktadır. Ve Yahut farklı iki tür arasında işlem yapıldığında dönen değerin türü ne olmaktadır ?
+=> Farklı iki tür arasında yapılan işlem sonucunda dönen değerin tipi değer aralığı en büyük olan tipinki olarak dönmektedir Orn : decimal-int -> decimal dönmektedir. Aynı türde yapılan işlemlerdede yapılan işlemin türü dönmektedir.
+=> Lakin bye-byte arasında yapılan işlem neticesinde dönen değer int olarak döncektir. Bu bir istisnadir.
+
+- Soru 7: Herhangi bir string ifade ile bir int değişken toplanırsa neler olur ?
+=> String bir ifade ile bir int değer toplanırsa eğer int değer boxing olup object türüne biliçsiz bir tür dönüşümüne uğrar. Ve string bir ifadeyle bir string ifadeymiş gibi toplanır. toplama sonucu dönen değerin türüde string olur.
+
+- Soru 8: Null Coalescing Assign operatörü nedir ne işe yarar ?
+=> Örnek verelim
+int? i = null;
+cw(i ??= 1);  // burada yapılan işlem eğer ki i değeri null ise 1 değerini ata ve yazdır, eğer null değilse i değerini yazdır

@@ -192,7 +192,7 @@
         // 1-> true
         //0 -> false
         // eşit olması ve ger ikalanın mümkün olmaması gerekmektedir.
-        //Halbuki burada *'ın dışındaki tümm değerler true olarak kabul edilmesi bir istisnadır.
+        //Halbuki burada 0'ın dışındaki tümm değerler true olarak kabul edilmesi bir istisnadır.
 
         // int i = 1;
         // bool b = Convert.ToBoolean(i);
