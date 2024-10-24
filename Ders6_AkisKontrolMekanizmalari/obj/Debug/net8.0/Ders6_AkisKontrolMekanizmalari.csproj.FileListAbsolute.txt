@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\bin\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.exe
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\bin\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\bin\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\bin\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\bin\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\refint\Ders6_AkisKontrolMekanizmalari.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\Ders6_AkisKontrolMekanizmalari.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders6_AkisKontrolMekanizmalari\obj\Debug\net8.0\ref\Ders6_AkisKontrolMekanizmalari.dll
