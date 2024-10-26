@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders7_HataKontrolMekanizmalari/1.0.0": {
+        "runtime": {
+          "Ders7_HataKontrolMekanizmalari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders7_HataKontrolMekanizmalari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\bin\Debug\net8.0\Ders7_HataKontrolMekanizmalari.exe
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\bin\Debug\net8.0\Ders7_HataKontrolMekanizmalari.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\bin\Debug\net8.0\Ders7_HataKontrolMekanizmalari.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\bin\Debug\net8.0\Ders7_HataKontrolMekanizmalari.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\bin\Debug\net8.0\Ders7_HataKontrolMekanizmalari.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\Ders7_HataKontrolMekanizmalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\Ders7_HataKontrolMekanizmalari.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\Ders7_HataKontrolMekanizmalari.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\Ders7_HataKontrolMekanizmalari.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\Ders7_HataKontrolMekanizmalari.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\Ders7_HataKontrolMekanizmalari.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\refint\Ders7_HataKontrolMekanizmalari.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\Ders7_HataKontrolMekanizmalari.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\Ders7_HataKontrolMekanizmalari.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders7_HataKontrolMekanizmalari\obj\Debug\net8.0\ref\Ders7_HataKontrolMekanizmalari.dll
