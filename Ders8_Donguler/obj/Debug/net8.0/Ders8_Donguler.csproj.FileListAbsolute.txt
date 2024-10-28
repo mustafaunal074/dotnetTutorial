@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\bin\Debug\net8.0\Ders8_Donguler.exe
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\bin\Debug\net8.0\Ders8_Donguler.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\bin\Debug\net8.0\Ders8_Donguler.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\bin\Debug\net8.0\Ders8_Donguler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\bin\Debug\net8.0\Ders8_Donguler.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\Ders8_Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\Ders8_Donguler.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\Ders8_Donguler.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\Ders8_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\Ders8_Donguler.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\Ders8_Donguler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\refint\Ders8_Donguler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\Ders8_Donguler.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\Ders8_Donguler.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders8_Donguler\obj\Debug\net8.0\ref\Ders8_Donguler.dll
