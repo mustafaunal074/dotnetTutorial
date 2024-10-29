@@ -580,6 +580,16 @@ internal class Program
         // Console.WriteLine(sayi < 0 ? "Negatif" : (sayi > 0 "Pozitif" : "sayi sifirdir."));
         #endregion
 
+        #region if Yapisinda Boş Scope Kullanmak İstemediğimiz Durumlarda ;(Noktali Virgül) Operatörü İle Temiz Kod Yazimi
+        
+        // if (true)
+        // {
+            
+        // }
+
+        // if(true);
+
+        #endregion
 
         #endregion
 

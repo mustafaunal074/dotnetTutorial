@@ -422,7 +422,28 @@
             // Iterasyon: Iterasyon mantığında ne kombinasyon ne de sart vardir. Iterasyonda; sonraki veri, oteki veri anlamina gelen itere etme fiili vardır. Bir veri kümesi üzerinde işlem yapmamizi/verileri elde etmemizi sağlayan yapılanmadır.
 
             #endregion
-        
+
+            #region Döngülerde Boş Scope Kullanmak İstemediğimz Durumlarda ;(Noktali Virgül) Operatörü ile Temiz Kod Yazimi
+
+            // Bazen(ki ileride asenkron programlamada) için boş sonsuz döngülere ihtiyacımız olabilir.
+            // Bu durumlarda normal döngü gövdelerini kullanabileceğimiz gibi scopesuz bu şekilde de kullanabilmekteyiz.
+
+            // while(true)
+            // {
+
+            // }
+            
+            // while(true);
+
+            // for (;;)
+            // {
+                
+            // }
+
+            // for(;;);
+            
+            #endregion
+
         #endregion
     }
 }

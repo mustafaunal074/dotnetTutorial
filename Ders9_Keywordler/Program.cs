@@ -11,8 +11,20 @@
             
             // Keywordlerin operatörlerle ne farkı vardır?
             //Operatorler esas olarak belirli bir operasyonu/eylemi ustlenen yapılardır.
-            //Keywordler daha genis kavramlardır.
+            //Keywordler daha genis kavramdırlar.
+
+            // Operatorlar esasında bir kwyworddur lakin her keyword bir operator değildir.
+
             #endregion
+        
+            #region Konseptli Keywordler
+
+            #endregion
+
+            #region Konseptsiz Keywordler
+                
+            #endregion
+        
         #endregion
     }
 }
