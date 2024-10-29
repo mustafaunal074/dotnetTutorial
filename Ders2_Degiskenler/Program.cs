@@ -37,7 +37,7 @@
         // En ilkel türdür.
         //byte : bir primitive turdur. hiçbir şey olmadan tek başına var olan bir tür olduğundan primitive dir. Lakin byte'lardan meydana gelmiş olan decimal türü ise primitive değildir. Lakin value typedir.
 
-        /
+        
         
         #endregion
         #endregion

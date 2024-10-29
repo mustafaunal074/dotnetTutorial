@@ -103,7 +103,7 @@ public class Program
         #endregion
         #region Ornek 3
         // aritmetik ort. al
-        int i = 10, i2 = 20;
+        //int i = 10, i2 = 20;
         // System.Console.WriteLine(i + i2); // toplama yaptım art ort. almadım işlem eksikliği var
         #endregion
         #endregion

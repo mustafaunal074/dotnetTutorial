@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\bin\Debug\net8.0\Ders0_GirisVeEkstralar.exe
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\bin\Debug\net8.0\Ders0_GirisVeEkstralar.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\bin\Debug\net8.0\Ders0_GirisVeEkstralar.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\bin\Debug\net8.0\Ders0_GirisVeEkstralar.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\bin\Debug\net8.0\Ders0_GirisVeEkstralar.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\Ders0_GirisVeEkstralar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\Ders0_GirisVeEkstralar.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\Ders0_GirisVeEkstralar.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\Ders0_GirisVeEkstralar.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\Ders0_GirisVeEkstralar.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\Ders0_GirisVeEkstralar.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\refint\Ders0_GirisVeEkstralar.dll
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\Ders0_GirisVeEkstralar.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\Ders0_GirisVeEkstralar.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotNET\dotnetTutorial\Ders0_GirisVeEkstralar\obj\Debug\net8.0\ref\Ders0_GirisVeEkstralar.dll
