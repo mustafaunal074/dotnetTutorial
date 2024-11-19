@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\bin\Debug\net8.0\Ders12_StringTuru.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\bin\Debug\net8.0\Ders12_StringTuru.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\bin\Debug\net8.0\Ders12_StringTuru.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\bin\Debug\net8.0\Ders12_StringTuru.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\bin\Debug\net8.0\Ders12_StringTuru.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\Ders12_StringTuru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\Ders12_StringTuru.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\Ders12_StringTuru.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\Ders12_StringTuru.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\Ders12_StringTuru.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\Ders12_StringTuru.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\refint\Ders12_StringTuru.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\Ders12_StringTuru.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\Ders12_StringTuru.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders12_StringTuru\obj\Debug\net8.0\ref\Ders12_StringTuru.dll
