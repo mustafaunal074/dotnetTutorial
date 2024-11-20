@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aX+t+MkgpmQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders13_DizilerdeVeriselPerformans\\Ders13_DizilerdeVeriselPerformans.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
