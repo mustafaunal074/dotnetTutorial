@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\bin\Debug\net8.0\Ders15_RegularExpressions.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\bin\Debug\net8.0\Ders15_RegularExpressions.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\bin\Debug\net8.0\Ders15_RegularExpressions.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\bin\Debug\net8.0\Ders15_RegularExpressions.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\bin\Debug\net8.0\Ders15_RegularExpressions.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\Ders15_RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\Ders15_RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\Ders15_RegularExpressions.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\Ders15_RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\Ders15_RegularExpressions.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\Ders15_RegularExpressions.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\refint\Ders15_RegularExpressions.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\Ders15_RegularExpressions.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\Ders15_RegularExpressions.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders15_RegularExpressions\obj\Debug\net8.0\ref\Ders15_RegularExpressions.dll
