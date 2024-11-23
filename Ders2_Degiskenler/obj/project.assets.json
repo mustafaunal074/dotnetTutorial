@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders2_Degiskenler\\Ders2_Degiskenler.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders2_Degiskenler\\Ders2_Degiskenler.csproj",
       "projectName": "Ders2_Degiskenler",
-      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders2_Degiskenler\\Ders2_Degiskenler.csproj",
+      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders2_Degiskenler\\Ders2_Degiskenler.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders2_Degiskenler\\obj\\",
+      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders2_Degiskenler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

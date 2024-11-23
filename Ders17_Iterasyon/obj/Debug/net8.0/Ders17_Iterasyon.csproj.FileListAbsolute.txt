@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\bin\Debug\net8.0\Ders17_Iterasyon.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\bin\Debug\net8.0\Ders17_Iterasyon.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\bin\Debug\net8.0\Ders17_Iterasyon.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\bin\Debug\net8.0\Ders17_Iterasyon.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\bin\Debug\net8.0\Ders17_Iterasyon.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\Ders17_Iterasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\Ders17_Iterasyon.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\Ders17_Iterasyon.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\Ders17_Iterasyon.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\Ders17_Iterasyon.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\Ders17_Iterasyon.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\refint\Ders17_Iterasyon.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\Ders17_Iterasyon.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\Ders17_Iterasyon.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders17_Iterasyon\obj\Debug\net8.0\ref\Ders17_Iterasyon.dll

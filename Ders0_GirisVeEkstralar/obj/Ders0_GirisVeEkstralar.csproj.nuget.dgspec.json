@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders0_GirisVeEkstralar\\Ders0_GirisVeEkstralar.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders0_GirisVeEkstralar\\Ders0_GirisVeEkstralar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders0_GirisVeEkstralar\\Ders0_GirisVeEkstralar.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders0_GirisVeEkstralar\\Ders0_GirisVeEkstralar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders0_GirisVeEkstralar\\Ders0_GirisVeEkstralar.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders0_GirisVeEkstralar\\Ders0_GirisVeEkstralar.csproj",
         "projectName": "Ders0_GirisVeEkstralar",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders0_GirisVeEkstralar\\Ders0_GirisVeEkstralar.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders0_GirisVeEkstralar\\Ders0_GirisVeEkstralar.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders0_GirisVeEkstralar\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders0_GirisVeEkstralar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

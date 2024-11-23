@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders14_SpanMemoryTurleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7106e68a78db82fef105de017da080274d1d2fd0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad24f1455e99b1be1f50da5572791d5350fd4deb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders14_SpanMemoryTurleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders14_SpanMemoryTurleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders5_Operatorler\\Ders5_Operatorler.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders5_Operatorler\\Ders5_Operatorler.csproj",
       "projectName": "Ders5_Operatorler",
-      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders5_Operatorler\\Ders5_Operatorler.csproj",
+      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders5_Operatorler\\Ders5_Operatorler.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders5_Operatorler\\obj\\",
+      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders5_Operatorler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

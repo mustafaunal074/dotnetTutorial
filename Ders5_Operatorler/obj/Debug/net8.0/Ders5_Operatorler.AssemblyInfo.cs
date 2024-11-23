@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders5_Operatorler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e3d1f1b4b132a0c30313a25cde8846bb1934e89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad24f1455e99b1be1f50da5572791d5350fd4deb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders5_Operatorler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders5_Operatorler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

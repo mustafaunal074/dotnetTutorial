@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders12_StringTuru")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b361765798554bfa43dda13102adb879964df332")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad24f1455e99b1be1f50da5572791d5350fd4deb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders12_StringTuru")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders12_StringTuru")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

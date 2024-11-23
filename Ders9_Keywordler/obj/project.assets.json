@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders9_Keywordler\\Ders9_Keywordler.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders9_Keywordler\\Ders9_Keywordler.csproj",
       "projectName": "Ders9_Keywordler",
-      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders9_Keywordler\\Ders9_Keywordler.csproj",
+      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders9_Keywordler\\Ders9_Keywordler.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders9_Keywordler\\obj\\",
+      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders9_Keywordler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

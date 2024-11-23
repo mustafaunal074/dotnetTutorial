@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders3_KodKonsepti\\Ders3_KodKonsepti.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders3_KodKonsepti\\Ders3_KodKonsepti.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders3_KodKonsepti\\Ders3_KodKonsepti.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders3_KodKonsepti\\Ders3_KodKonsepti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders3_KodKonsepti\\Ders3_KodKonsepti.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders3_KodKonsepti\\Ders3_KodKonsepti.csproj",
         "projectName": "Ders3_KodKonsepti",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders3_KodKonsepti\\Ders3_KodKonsepti.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders3_KodKonsepti\\Ders3_KodKonsepti.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders3_KodKonsepti\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders3_KodKonsepti\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

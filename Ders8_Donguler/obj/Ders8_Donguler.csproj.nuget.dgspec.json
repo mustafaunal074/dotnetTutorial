@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders8_Donguler\\Ders8_Donguler.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders8_Donguler\\Ders8_Donguler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders8_Donguler\\Ders8_Donguler.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders8_Donguler\\Ders8_Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders8_Donguler\\Ders8_Donguler.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders8_Donguler\\Ders8_Donguler.csproj",
         "projectName": "Ders8_Donguler",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders8_Donguler\\Ders8_Donguler.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders8_Donguler\\Ders8_Donguler.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders8_Donguler\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders8_Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -411,8 +411,8 @@
         #endregion
         #region Girilen Metindeki Kelime Sayisisin Hesaplayalim
 
-        Console.Write("Lütfen bir metin giriniz : ");
-        string metin = Console.ReadLine();
+        // Console.Write("Lütfen bir metin giriniz : ");
+        // string metin = Console.ReadLine();
         
         #region Çözüm 1
         
@@ -421,16 +421,16 @@
 
         #endregion
         #region Çözüm 2
-        int adet = 1;
-        while(true)
-        {
-            int index = metin.IndexOf(' ');
-            if(index == -1)
-                break;
-            adet++;
-            metin = metin.Substring(index + 1);
-        }
-        System.Console.WriteLine(adet);
+        // int adet = 1;
+        // while(true)
+        // {
+        //     int index = metin.IndexOf(' ');
+        //     if(index == -1)
+        //         break;
+        //     adet++;
+        //     metin = metin.Substring(index + 1);
+        // }
+        // System.Console.WriteLine(adet);
 
         #endregion
         #endregion

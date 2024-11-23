@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders10_YardımcıManevratikKomutlar\\Ders10_YardımcıManevratikKomutlar.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders10_YardımcıManevratikKomutlar\\Ders10_YardımcıManevratikKomutlar.csproj",
       "projectName": "Ders10_YardımcıManevratikKomutlar",
-      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders10_YardımcıManevratikKomutlar\\Ders10_YardımcıManevratikKomutlar.csproj",
+      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders10_YardımcıManevratikKomutlar\\Ders10_YardımcıManevratikKomutlar.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders10_YardımcıManevratikKomutlar\\obj\\",
+      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders10_YardımcıManevratikKomutlar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

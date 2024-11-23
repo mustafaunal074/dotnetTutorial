@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\Ders7_HataKontrolMekanizmalari.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\Ders7_HataKontrolMekanizmalari.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\Ders7_HataKontrolMekanizmalari.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\Ders7_HataKontrolMekanizmalari.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\Ders7_HataKontrolMekanizmalari.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\Ders7_HataKontrolMekanizmalari.csproj",
         "projectName": "Ders7_HataKontrolMekanizmalari",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\Ders7_HataKontrolMekanizmalari.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\Ders7_HataKontrolMekanizmalari.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders7_HataKontrolMekanizmalari\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

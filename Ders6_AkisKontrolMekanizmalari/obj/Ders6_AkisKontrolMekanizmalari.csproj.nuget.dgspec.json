@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\Ders6_AkisKontrolMekanizmalari.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\Ders6_AkisKontrolMekanizmalari.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\Ders6_AkisKontrolMekanizmalari.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\Ders6_AkisKontrolMekanizmalari.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\Ders6_AkisKontrolMekanizmalari.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\Ders6_AkisKontrolMekanizmalari.csproj",
         "projectName": "Ders6_AkisKontrolMekanizmalari",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\Ders6_AkisKontrolMekanizmalari.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\Ders6_AkisKontrolMekanizmalari.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotNET\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\dotnetTutorial\\Ders6_AkisKontrolMekanizmalari\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",
