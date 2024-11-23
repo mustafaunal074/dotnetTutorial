@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders16_Koleksiyonlar/1.0.0": {
+        "runtime": {
+          "Ders16_Koleksiyonlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders16_Koleksiyonlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
