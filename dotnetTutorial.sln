@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders16_Koleksiyonlar", "Der
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders17_Iterasyon", "Ders17_Iterasyon\Ders17_Iterasyon.csproj", "{480A3DD1-FF9E-4030-AAFF-27A12553EDF0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders18_HazirSinifVeFonksiyonlar", "Ders18_HazirSinifVeFonksiyonlar\Ders18_HazirSinifVeFonksiyonlar.csproj", "{DD8A2601-2CC1-4288-8C89-E2C4E5DC1A75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{480A3DD1-FF9E-4030-AAFF-27A12553EDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480A3DD1-FF9E-4030-AAFF-27A12553EDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480A3DD1-FF9E-4030-AAFF-27A12553EDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8A2601-2CC1-4288-8C89-E2C4E5DC1A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8A2601-2CC1-4288-8C89-E2C4E5DC1A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8A2601-2CC1-4288-8C89-E2C4E5DC1A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8A2601-2CC1-4288-8C89-E2C4E5DC1A75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

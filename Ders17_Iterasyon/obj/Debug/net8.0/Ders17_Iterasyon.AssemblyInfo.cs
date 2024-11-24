@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders17_Iterasyon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad24f1455e99b1be1f50da5572791d5350fd4deb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a882e75e6f7c1a643feb5e89fb6739f5aacb50")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders17_Iterasyon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders17_Iterasyon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

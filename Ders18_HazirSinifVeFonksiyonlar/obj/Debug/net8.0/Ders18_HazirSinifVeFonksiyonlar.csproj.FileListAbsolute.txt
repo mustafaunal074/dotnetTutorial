@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\bin\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\bin\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\bin\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\bin\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\bin\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\refint\Ders18_HazirSinifVeFonksiyonlar.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\Ders18_HazirSinifVeFonksiyonlar.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders18_HazirSinifVeFonksiyonlar\obj\Debug\net8.0\ref\Ders18_HazirSinifVeFonksiyonlar.dll
