@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\dotnetTutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD8A2601-2CC1-4288-8C89-E2C4E5DC1A75}|Ders18_HazirSinifVeFonksiyonlar\\Ders18_HazirSinifVeFonksiyonlar.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\dotnettutorial\\ders18_hazirsinifvefonksiyonlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD8A2601-2CC1-4288-8C89-E2C4E5DC1A75}|Ders18_HazirSinifVeFonksiyonlar\\Ders18_HazirSinifVeFonksiyonlar.csproj|solutionrelative:ders18_hazirsinifvefonksiyonlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{199CCDC9-1795-4DBA-8E67-39ADF7B416A5}|Ders15_RegularExpressions\\Ders15_RegularExpressions.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\dotnettutorial\\ders15_regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CCDC9-1795-4DBA-8E67-39ADF7B416A5}|Ders15_RegularExpressions\\Ders15_RegularExpressions.csproj|solutionrelative:ders15_regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,31 +36,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\dotnetTutorial\\Ders18_HazirSinifVeFonksiyonlar\\Program.cs",
-              "RelativeDocumentMoniker": "Ders18_HazirSinifVeFonksiyonlar\\Program.cs",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\dotnetTutorial\\Ders18_HazirSinifVeFonksiyonlar\\Program.cs",
-              "RelativeToolTip": "Ders18_HazirSinifVeFonksiyonlar\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T10:43:45.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\dotnetTutorial\\Ders15_RegularExpressions\\Program.cs",
               "RelativeDocumentMoniker": "Ders15_RegularExpressions\\Program.cs",
               "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\dotnetTutorial\\Ders15_RegularExpressions\\Program.cs",
               "RelativeToolTip": "Ders15_RegularExpressions\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T19:16:13.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\dotnetTutorial\\Ders13_DizilerdeVeriselPerformans\\Program.cs",
               "RelativeDocumentMoniker": "Ders13_DizilerdeVeriselPerformans\\Program.cs",
@@ -76,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\dotnetTutorial\\Ders10_Yard\u0131mc\u0131ManevratikKomutlar\\Program.cs",
               "RelativeDocumentMoniker": "Ders10_Yard\u0131mc\u0131ManevratikKomutlar\\Program.cs",

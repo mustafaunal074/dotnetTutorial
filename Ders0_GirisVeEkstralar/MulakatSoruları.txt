@@ -37,3 +37,9 @@ cw(i ??= 1);  // burada yapılan işlem eğer ki i değeri null ise 1 değerini 
 
 - Soru 11: if-else yapısı ile switch-case yapısı arasındaki fark nedir?
 => switch-case yapısı eşitlik durumuna if-else durumu karşılaştırma durumuna bkamaktaydı taki c#9.0 a akdar. Relational Patterns sayesinde switch-casede tüm eşitlik,büyük,küçük ... durumlarına bkaabilir hale gelmiştir.
+
+- Soru 12: Property yapısı nasıldır?
+=> Propertlyerde arka tarafta bir metot aracılığıyla çalışırlar. Propertyler özünde compiler seviyesinde bir metotuttur.
+
+-Soru 13: Methotların imzasındaki parametrelin önüne gelen 'in' keywordu ne işe yaramaktadir
+=> in keywordu ile işaretlenen parametreyi readonly şekline çevirir. Yani ilgili parametreyi metot içierisnde herhangi bir şekilde atama yapmamızı engeller.

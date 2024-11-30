@@ -151,7 +151,7 @@
     
         // 0-1 arasında rastgele değer üretir
         System.Console.WriteLine(random.NextDouble());
-        
+
         #endregion
         
         #endregion
