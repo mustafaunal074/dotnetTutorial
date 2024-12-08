@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders05_Operatorler/1.0.0": {
+        "runtime": {
+          "Ders05_Operatorler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders05_Operatorler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

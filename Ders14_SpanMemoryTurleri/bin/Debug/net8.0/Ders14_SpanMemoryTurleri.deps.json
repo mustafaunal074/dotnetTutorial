@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders14_SpanMemoryTurleri/1.0.0": {
+        "runtime": {
+          "Ders14_SpanMemoryTurleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders14_SpanMemoryTurleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

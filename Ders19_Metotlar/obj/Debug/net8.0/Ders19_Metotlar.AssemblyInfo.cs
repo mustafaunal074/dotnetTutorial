@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders19_Metotlar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11fdfd3a81abf12230d1f935052ddd7394a573d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7b087667b9ce333cae9826dcdcbfeed67ce74c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders19_Metotlar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders19_Metotlar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

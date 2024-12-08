@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\bin\Debug\net8.0\Ders01_MainNedir.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\bin\Debug\net8.0\Ders01_MainNedir.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\bin\Debug\net8.0\Ders01_MainNedir.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\bin\Debug\net8.0\Ders01_MainNedir.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\bin\Debug\net8.0\Ders01_MainNedir.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\Ders01_MainNedir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\Ders01_MainNedir.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\Ders01_MainNedir.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\Ders01_MainNedir.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\Ders01_MainNedir.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\Ders01_MainNedir.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\refint\Ders01_MainNedir.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\Ders01_MainNedir.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\Ders01_MainNedir.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders01_MainNedir\obj\Debug\net8.0\ref\Ders01_MainNedir.dll

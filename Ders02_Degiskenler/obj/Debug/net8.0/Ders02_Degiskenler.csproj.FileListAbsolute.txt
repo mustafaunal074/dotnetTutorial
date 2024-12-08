@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\bin\Debug\net8.0\Ders02_Degiskenler.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\bin\Debug\net8.0\Ders02_Degiskenler.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\bin\Debug\net8.0\Ders02_Degiskenler.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\bin\Debug\net8.0\Ders02_Degiskenler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\bin\Debug\net8.0\Ders02_Degiskenler.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\Ders02_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\Ders02_Degiskenler.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\Ders02_Degiskenler.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\Ders02_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\Ders02_Degiskenler.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\Ders02_Degiskenler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\refint\Ders02_Degiskenler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\Ders02_Degiskenler.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\Ders02_Degiskenler.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders02_Degiskenler\obj\Debug\net8.0\ref\Ders02_Degiskenler.dll

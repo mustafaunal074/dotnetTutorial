@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\bin\Debug\net8.0\Ders05_Operatorler.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\bin\Debug\net8.0\Ders05_Operatorler.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\bin\Debug\net8.0\Ders05_Operatorler.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\bin\Debug\net8.0\Ders05_Operatorler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\bin\Debug\net8.0\Ders05_Operatorler.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\Ders05_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\Ders05_Operatorler.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\Ders05_Operatorler.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\Ders05_Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\Ders05_Operatorler.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\Ders05_Operatorler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\refint\Ders05_Operatorler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\Ders05_Operatorler.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\Ders05_Operatorler.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders05_Operatorler\obj\Debug\net8.0\ref\Ders05_Operatorler.dll

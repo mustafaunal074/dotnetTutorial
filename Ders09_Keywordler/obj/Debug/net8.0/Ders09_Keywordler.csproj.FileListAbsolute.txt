@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\bin\Debug\net8.0\Ders09_Keywordler.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\bin\Debug\net8.0\Ders09_Keywordler.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\bin\Debug\net8.0\Ders09_Keywordler.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\bin\Debug\net8.0\Ders09_Keywordler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\bin\Debug\net8.0\Ders09_Keywordler.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\Ders09_Keywordler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\Ders09_Keywordler.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\Ders09_Keywordler.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\Ders09_Keywordler.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\Ders09_Keywordler.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\Ders09_Keywordler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\refint\Ders09_Keywordler.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\Ders09_Keywordler.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\Ders09_Keywordler.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders09_Keywordler\obj\Debug\net8.0\ref\Ders09_Keywordler.dll

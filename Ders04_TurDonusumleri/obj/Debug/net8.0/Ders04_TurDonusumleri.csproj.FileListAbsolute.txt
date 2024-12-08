@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\bin\Debug\net8.0\Ders04_TurDonusumleri.exe
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\bin\Debug\net8.0\Ders04_TurDonusumleri.deps.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\bin\Debug\net8.0\Ders04_TurDonusumleri.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\bin\Debug\net8.0\Ders04_TurDonusumleri.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\bin\Debug\net8.0\Ders04_TurDonusumleri.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\Ders04_TurDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\Ders04_TurDonusumleri.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\Ders04_TurDonusumleri.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\Ders04_TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\Ders04_TurDonusumleri.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\Ders04_TurDonusumleri.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\refint\Ders04_TurDonusumleri.dll
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\Ders04_TurDonusumleri.pdb
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\Ders04_TurDonusumleri.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\dotnetTutorial\Ders04_TurDonusumleri\obj\Debug\net8.0\ref\Ders04_TurDonusumleri.dll

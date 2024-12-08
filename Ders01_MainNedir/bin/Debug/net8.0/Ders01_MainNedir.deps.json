@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders01_MainNedir/1.0.0": {
+        "runtime": {
+          "Ders01_MainNedir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders01_MainNedir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
